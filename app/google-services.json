@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120630843698",
+    "project_id": "howlproject-e7a45",
+    "storage_bucket": "howlproject-e7a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120630843698:android:acf5b259e75765f7d31f2b",
+        "android_client_info": {
+          "package_name": "com.howlab.howlproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120630843698-8h3dq3j3c2ru62i4lq7m04c8riod1gh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8W8j38gv58di0QErLtrobq_uWEjpGYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120630843698-8h3dq3j3c2ru62i4lq7m04c8riod1gh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
